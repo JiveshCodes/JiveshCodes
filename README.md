@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Jivesh Gupta
 
-<!--
-**JiveshCodes/JiveshCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA (Artificial Intelligence & Machine Learning) student  
+💻 Exploring AI, Machine Learning, and practical problem-solving through code
 
-Here are some ideas to get you started:
+I like understanding *how things actually work* — whether it’s cleaning messy data, training a model, or improving code step by step.  
+Most of my learning happens by building projects, experimenting, and fixing mistakes rather than just reading theory.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now, I’m focused on strengthening my foundations in AI/ML, writing better Python code, and applying what I learn to real datasets.
+
+---
+
+## 🔧 What I’m Currently Doing
+
+- Learning AI & Machine Learning concepts from basics
+- Working with Python for data analysis and ML models
+- Experimenting with CNNs and classification problems
+- Improving logic, debugging skills, and code structure
+- Slowly building projects instead of rushing tutorials
+
+---
+
+## 🛠️ Tech I Use
+
+**Languages**
+- Python
+- C
+- Java (basic understanding)
+- SQL
+
+**Tools & Libraries**
+- NumPy, Pandas
+- Matplotlib
+- TensorFlow / Keras
+- Git & GitHub
+
+---
+
+## 🎯 Interests
+
+- Machine Learning & AI
+- Data analysis and visualization
+- Computer vision basics
+- Understanding algorithms practically
+
+---
+
+## 📬 Contact
+
+- Email: jiveshg625@gmail.com
+
+---
+
+*Still learning. Still improving. One project at a time.*

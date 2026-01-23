@@ -48,6 +48,7 @@ Right now, I’m focused on strengthening my foundations in AI/ML, writing bette
 ## 📬 Contact
 
 - Email: jiveshg625@gmail.com
+- Linkedin:  https://www.linkedin.com/in/jivesh-gupta-555371321/
 
 ---
 

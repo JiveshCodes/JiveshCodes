@@ -25,7 +25,7 @@ Right now, I’m focused on strengthening my foundations in AI/ML, writing bette
 **Languages**
 - Python
 - C
-- Java (basic understanding)
+- Java 
 - SQL
 
 **Tools & Libraries**
